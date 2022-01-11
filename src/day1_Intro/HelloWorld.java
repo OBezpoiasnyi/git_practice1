@@ -8,4 +8,10 @@ public class HelloWorld {
 
     //doing something else) work 3 is done and ready to be committed
 
+    public static void main(String[] args) {
+
+        System.out.println("Hello world");
+
+    }
+
 }
